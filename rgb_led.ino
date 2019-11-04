@@ -17,7 +17,8 @@ void loop() {
   analogWrite(red,100);
   analogWrite(blue,100);
   analogWrite(green,100);
-  
-
-  
+ 
+ 
 }
+
+//kraj programa
